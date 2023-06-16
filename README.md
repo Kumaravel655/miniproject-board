@@ -1,6 +1,13 @@
 # miniproject-pcb-board-design 
 ## Aim:
 Design and develop a PCB board for any specific application.
+## Algorithm:
+STEP 1 :Draw a neat schematic by following the standard rules.
+STEP 2: Develop the PCB layout.
+STEP 3: Generate GCODE using CopperCAM
+STEP 4:Manufacture the PCB board using PCB prototyping machine.
+STEP 5: Attach the schematic diagram, PCB layout, CopperCAM output, GCODE and image of the manufactured PCB with the submission.
+
 ## Schematic diagram:
 ![image](https://github.com/Kumaravel655/miniproject-board/assets/75235334/6045c1e4-24f4-41f6-8670-2429be9e6d7c)
 ## PCB layout:
