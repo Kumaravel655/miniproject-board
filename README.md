@@ -1,10 +1,13 @@
-# miniproject-board
-
+# miniproject-pcb-board-design 
+Aim:
+Design and develop a PCB board for any specific application.
+## Schematic diagram:
 ![image](https://github.com/Kumaravel655/miniproject-board/assets/75235334/6045c1e4-24f4-41f6-8670-2429be9e6d7c)
+## PCB layout:
 ![image](https://github.com/Kumaravel655/miniproject-board/assets/75235334/123f6502-d2aa-497c-bafe-2abf3d79dba3)
-
+## Image of the manufactured PCB
 ![image](https://github.com/Kumaravel655/miniproject-board/assets/75235334/6205aada-6917-4ba6-967e-2cb066c0f11e)
-
+## G-Code 
 G90
 G0 X10 Y10
 G1 Z1 F1000
