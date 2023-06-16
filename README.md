@@ -19,7 +19,7 @@ STEP 5: Attach the schematic diagram, PCB layout, CopperCAM output, GCODE and im
 ## Image of the manufactured PCB
 ![image](https://github.com/Kumaravel655/miniproject-board/assets/75235334/6205aada-6917-4ba6-967e-2cb066c0f11e)
 ## G-Code 
-G90
+% ( CopperCAM - 29/07/2019 / ISO-Mill Output ) ( C:\COPPERCAM2\CopperCAM.iso created 14/06/2023 at 09:59 ) ( Workpiece dimensions: 82.22 x 54.915 x 0 mm ) G21 G40 G54 G80 G90 G94 ( Tool #1 "Basic Engraver" / Diameter 0.8 mm ) G90
 G0 X10 Y10
 G1 Z1 F1000
 G1 X10 Y20 F1000
