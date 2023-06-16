@@ -1,5 +1,5 @@
 # miniproject-pcb-board-design 
-Aim:
+## Aim:
 Design and develop a PCB board for any specific application.
 ## Schematic diagram:
 ![image](https://github.com/Kumaravel655/miniproject-board/assets/75235334/6045c1e4-24f4-41f6-8670-2429be9e6d7c)
