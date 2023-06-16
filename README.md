@@ -56,3 +56,6 @@ G1 X20 Y20 F1000
 G1 Z19 F1000
 G1 X20 Y10 F1000
 G1 Z20 F1000
+
+## result:
+Thus the program to implement a design for custom application board is successfully implemented
